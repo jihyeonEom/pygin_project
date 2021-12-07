@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./Play_2_ball",
+        "./example_games/Balance"
+    ]
+}
